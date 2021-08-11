@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Azwan. 
-- 🏬 I'm Electronic (Robotics) Engineer at Petronas Research Sdn Bhd and former Assistant Professor at Herriot-Watt University Malaysia.
+- 🏬 I'm an Electronic (Robotics) Engineer at Petronas Research Sdn Bhd
+- 🏛 I'm also a former Assistant Professor at Herriot-Watt University Malaysia.
 - 👀 I’m interested in Control Engineering and Artificial Intelligence for Robotics and Autonomous Vehicles applications.
 - 🌱 I’m currently learning about Deep Learning and Machine Learning.
 - 💞️ I’m looking to collaborate on Robotics or Autonomous Vehicles projects.
