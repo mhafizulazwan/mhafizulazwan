@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Azwan. 
-- 🏬 I'm an Executvie (R&D Mechatronics) at Petronas Research Sdn Bhd
+- 🏬 I'm an Executive (R&D Mechatronics) at Petronas Research Sdn Bhd
 - 🏛 I'm also a former Assistant Professor at Herriot-Watt University Malaysia.
 - 👀 I’m interested in Control Engineering and Artificial Intelligence for Robotics and Autonomous Vehicles applications.
 - 🌱 I’m currently learning about Deep Learning and Machine Learning.
