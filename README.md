@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Azwan. 
 - 🏬 I'm an Executive (R&D Mechatronics) at Petronas Research Sdn Bhd
 - 🏛 I'm also a former Assistant Professor at Herriot-Watt University Malaysia.
-- 👀 I’m interested in Control Engineering and Artificial Intelligence for Robotics, Autonomous Vehicles, and Intelligent Energy Management System.
+- 👀 I’m interested in Control System Engineering and Artificial Intelligence for Robotics, Autonomous Vehicles, and Intelligent Energy Management System.
 - 🌱 I’m currently learning about Deep Learning and Machine Learning.
 - 💞️ I’m looking to collaborate on Robotics, Autonomous Vehicles, and Intelligent Energy Management System projects.
 - 📫 You can reach me at mhafizulazwan@gmail.com
